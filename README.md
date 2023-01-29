@@ -1,2 +1,12 @@
 # bwanji-site
-bwanji website
+
+Logo Device 
+
+01101001 
+01100011 
+01110100 
+01101000 
+01110101 
+01110011
+
+Icthus in Binary
